@@ -1,3 +1,3 @@
-# Python-machinlearning-practice
+# Python-machinlearning-linearregression
 
-this repository will be filled with a few personal projects that I have dont to familiarize myself with machine learning in python
+This is python practice to familiarize myself with training AI and ploting data from a dataset. The project uses linear regression to predict "students" final grades based on previous grades, absences, and failures.
